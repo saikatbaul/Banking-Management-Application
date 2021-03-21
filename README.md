@@ -48,4 +48,4 @@ _Requirements:
 1. OOP Principles.
 2. Interface implementation.
 3. Prompt the user to give input.
-4. The application will repeatedly go on according to the user choices.
+4. Go on according to the user choices.
